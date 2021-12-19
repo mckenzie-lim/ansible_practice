@@ -1,0 +1,14 @@
+[db]
+50.116.34.129 ansible_user=root
+
+[web]
+74.287.226.29 ansible_user=root
+
+
+[app]
+45.33.103.65 ansible_user=root
+
+
+
+
+

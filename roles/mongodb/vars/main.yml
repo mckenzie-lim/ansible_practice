@@ -1,0 +1,4 @@
+---
+# vars file for 
+appdbuser: nodeuser
+dbname: Posts

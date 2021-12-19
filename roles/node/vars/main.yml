@@ -1,0 +1,8 @@
+---
+# vars file for node
+
+appdir: /opt/app 
+db_host: "50.116.34.129"
+db_name: Posts
+appdbuser: nodeuser
+app_port: 3000
